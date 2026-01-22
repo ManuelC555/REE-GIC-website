@@ -1,0 +1,134 @@
+.focus-section {
+  position: relative;
+  margin: 4rem auto;
+  padding: 4rem 1.5rem;
+  background-image: url("/images/bg-website.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+.focus-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.85);
+  z-index: 0;
+}
+
+.focus-section > * {
+  position: relative;
+  z-index: 1;
+}
+
+.focus-row {
+  max-width: 1400px;
+  margin: 0 auto 4rem auto; 
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+
+.focus-row.reverse {
+  flex-direction: row-reverse;
+}
+
+.focus-text {
+  flex: 1;
+}
+
+.focus-text h3 {
+  font-size: 2.1rem;
+  margin-bottom: 1rem;
+  color: #0f172a;
+}
+
+.focus-text p {
+  line-height: 1.8;
+  font-size: 1.05rem;
+  color: #334155;
+}
+
+.focus-image {
+  flex: 1;
+}
+
+.focus-image img {
+  width: 100%;
+  border-radius: 18px;
+  object-fit: cover;
+  box-shadow: 0 30px 70px rgba(0,0,0,0.25);
+}
+
+@media (max-width: 768px) {
+  .focus-row,
+  .focus-row.reverse {
+    flex-direction: column;
+  }
+
+  .focus-text h3 {
+    font-size: 1.8rem;
+  }
+}
+
+.intro-section {
+  margin: 1rem auto 2rem;
+  padding: 6rem 2rem;
+  text-align: center;
+
+  background-image: url("/images/bg-website.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  position: relative;
+  overflow: hidden;
+}
+
+.intro-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    rgba(15, 23, 42, 0.75),
+    rgba(15, 23, 42, 0.75)
+  );
+}
+
+.intro-section h2,
+.intro-section p {
+  position: relative;
+  z-index: 1;
+}
+
+.intro-section h2 {
+  font-size: 2.8rem;
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+}
+
+.intro-section p {
+  max-width: 900px;
+  margin: 0 auto;
+  font-size: 1.15rem;
+  line-height: 1.8;
+  opacity: 0.95;
+}
+
+@media (max-width: 768px) {
+  .intro-section {
+    padding: 4rem 1.5rem;
+  }
+
+  .intro-section h2 {
+    font-size: 2.2rem;
+  }
+
+  .intro-section p {
+    text-align: left;
+    word-spacing: 0.02em;
+    line-height: 1.7;
+  }
+}

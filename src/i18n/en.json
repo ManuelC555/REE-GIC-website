@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "vision": "Vision",
+    "mission": "Mission",
+    "values": "Values",
+    "impact": "Impact",
+    "organization": "Organization",
+    "donate": "Support"
+  },
+
+  "home": {
+    "hero": {
+      "subtitle": "Investing together for a sustainable future",
+      "title": "RÉSEAU d'ENTREPRENEURS ENGAGÉS & GLOBAL INDUSTRY CENTER"
+    },
+
+    "intro": {
+      "title": "About REE – GIC",
+      "text": "The Network of Engaged Entrepreneurs – Global Industry Center (REE–GIC) is a collective initiative bringing together entrepreneurs, investors, and economic actors around a shared vision: building a sustainable, inclusive, and resilient economy."
+    },
+
+    "impact": {
+      "title": "REE – GIC Impact",
+      "text": "Through its initiatives, REE–GIC generates measurable social and economic impact. Our projects contribute to job creation, skills development, strengthening local value chains, and improving living conditions. Each action is designed to deliver long-term, environmentally responsible results that benefit future generations."
+    },
+
+    "organisation": {
+      "title": "REE – GIC Organization",
+      "text": "REE–GIC operates through a structured organization and transparent governance model. The network is based on collaboration, accountability, and active participation, ensuring effective project management and alignment between strategic vision and tangible results."
+    }
+  },
+
+  "about": {
+    "title": "About REE – GIC",
+    "subtitle": "A network of entrepreneurs committed to sustainable economic development",
+
+    "mission": {
+      "title": "Mission",
+      "text": "The mission of the Network of Engaged Entrepreneurs – Global Industry Center (REE–GIC) is to bring together visionary entrepreneurs around sustainable economic projects with strong social impact. The organization supports the creation and structuring of businesses in production, transformation, and services sectors."
+    },
+
+    "vision": {
+      "title": "Vision",
+      "text": "REE–GIC aims to become a key driver of economic development in Haiti and the Caribbean region by building an inclusive, structured, and resilient entrepreneurial ecosystem."
+    },
+
+    "values": {
+  "title": "Values",
+  "text": "The values of REE – GIC form the foundation of all our actions. We believe in responsible entrepreneurship built on integrity, collaboration, and sustainable impact. Our commitment is grounded in transparent governance, respect for local communities, and the development of human capital. We promote meaningful innovation focused on practical solutions that foster inclusive growth, create sustainable jobs, and strengthen economic resilience. Through these values, REE – GIC positions itself as a committed actor in long-term economic and social development."
+  }
+  },
+
+  "areas": {
+    "title": "Strategic Areas",
+
+    "production": "Production",
+    "production_desc": "The Production pillar focuses on developing local production units capable of meeting national market needs while promoting responsible industrialization and sustainable job creation.",
+
+    "transformation": "Transformation",
+    "transformation_desc": "Transforming local raw materials increases added value, strengthens competitive value chains, and enhances technical skills within local communities.",
+
+    "services": "Services",
+    "services_desc": "The Services pillar provides advisory, training, project management, and digital solutions to support entrepreneurs and ensure the sustainability and performance of initiatives."
+  },
+
+  "members": {
+    "title": "Our Team",
+    "founder": "Founder",
+    "member": "Network Member"
+  },
+
+  "footer": {
+    "description": "Network of Engaged Entrepreneurs dedicated to sustainable economic development and social impact.",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "rights": "All rights reserved"
+  },
+  "quotes": {
+  "mission": {
+    "text": "Investing together means sharing risks, uniting strengths, and maximizing impact for the common good.",
+    "author": "REE – GIC Philosophy"
+  },
+  "vision": {
+    "text": "Great transformations are born from a shared vision carried by committed people.",
+    "author": "REE – GIC Vision"
+  },
+  "values": {
+    "text": "Trust, solidarity and commitment are the foundations of sustainable success.",
+    "author": "REE – GIC Values"
+  }
+},
+"joinTeam": {
+  "quote": "Investing together means combining strengths, sharing risks, and building sustainable prosperity beyond individual ambitions.",
+  "button": "Join our team"
+}
+}

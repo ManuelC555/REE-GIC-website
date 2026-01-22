@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "vision": "Vision",
+    "mission": "Mission",
+    "values": "Valeurs",
+    "impact": "Impact",
+    "organization": "Organisation",
+    "donate": "Soutenir"
+  },
+
+  "home": {
+    "hero": {
+      "subtitle": "Investir ensemble pour un avenir durable",
+      "title": "RÉSEAU d'ENTREPRENEURS ENGAGÉS & GLOBAL INDUSTRY CENTER"
+    },
+    
+
+    "intro": {
+      "title": "À propos de REE – GIC",
+      "text": "Le Réseau d’Entrepreneurs Engagés – Global Industry Center (REE–GIC) est une initiative collective qui rassemble des entrepreneurs, des investisseurs et des acteurs économiques autour d’une vision commune : bâtir une économie durable, inclusive et résiliente."
+    },
+
+    "impact": {
+      "title": "Impact REE – GIC",
+      "text": "À travers ses initiatives, REE–GIC génère un impact social et économique mesurable. Nos projets contribuent à la création d’emplois décents, au renforcement des compétences professionnelles, à la structuration des filières locales et à l’amélioration des conditions de vie des populations. Chaque action est pensée pour produire des résultats durables, respectueux de l’environnement et bénéfiques pour les générations futures."
+    },
+
+    "organisation": {
+      "title": "Organisation REE – GIC",
+      "text": "REE–GIC repose sur une organisation structurée et une gouvernance transparente. Le réseau fonctionne selon des principes de collaboration, de responsabilité et de participation active. Cette organisation permet une gestion efficace des projets et un alignement constant entre vision stratégique et résultats concrets."
+    }
+  },
+
+  "about": {
+    "title": "À propos de REE – GIC",
+    "subtitle": "Un réseau d’entrepreneurs engagés pour un développement économique durable",
+
+    "mission": {
+      "title": "Mission",
+      "text": "La mission du Réseau d’Entrepreneurs Engagés – Global Industry Center (REE–GIC) est de fédérer des entrepreneurs visionnaires autour de projets économiques durables à fort impact social. L’organisation accompagne la création et la structuration d’entreprises dans les domaines de la production, de la transformation et des services."
+    },
+
+    "vision": {
+      "title": "Vision",
+      "text": "REE–GIC ambitionne de devenir un acteur majeur du développement économique en Haïti et dans la région caribéenne, en construisant un écosystème entrepreneurial inclusif, structuré et résilient."
+    },
+
+    "values": {
+  "title": "Valeurs",
+  "text": "Les valeurs de REE – GIC constituent le socle de toutes nos actions. Nous croyons en un entrepreneuriat responsable, fondé sur l’intégrité, la collaboration et l’impact durable. Notre engagement repose sur la transparence dans la gouvernance, le respect des communautés locales et la valorisation du capital humain. Nous encourageons l’innovation utile, orientée vers des solutions concrètes capables de générer une croissance inclusive, de créer des emplois durables et de renforcer la résilience économique des territoires. À travers ces valeurs, REE – GIC s’affirme comme un acteur engagé au service du développement économique et social à long terme."
+}
+  },
+
+  "areas": {
+    "title": "Domaines stratégiques",
+
+    "production": "Production",
+    "production_desc": "Le pôle Production vise à développer des unités productives locales capables de répondre aux besoins du marché national, tout en favorisant l’industrialisation responsable et la création d’emplois durables.",
+
+    "transformation": "Transformation",
+    "transformation_desc": "La transformation des matières premières locales permet d’augmenter la valeur ajoutée, de structurer des chaînes de valeur compétitives et de renforcer les compétences techniques locales.",
+
+    "services": "Services",
+    "services_desc": "Le pôle Services accompagne les entrepreneurs à travers le conseil, la formation, la gestion de projets et les solutions numériques, favorisant la pérennité et la performance des initiatives."
+  },
+
+  "members": {
+    "title": "Notre équipe",
+    "founder": "Fondateur",
+    "member": "Membre du réseau"
+  },
+
+  "footer": {
+    "description": "Réseau d’Entrepreneurs Engagés pour le développement économique durable et l’impact social.",
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "rights": "Tous droits réservés"
+  },
+  "quotes": {
+  "mission": {
+    "text": "Investir ensemble, c’est unir les forces, partager les risques et multiplier l’impact au service du bien commun.",
+    "author": "Philosophie REE – GIC"
+  },
+  "vision": {
+    "text": "Les grandes transformations naissent toujours d’une vision collective portée par des femmes et des hommes engagés.",
+    "author": "Vision REE – GIC"
+  },
+  "values": {
+    "text": "La confiance, la solidarité et l’engagement sont les piliers de toute réussite durable.",
+    "author": "Valeurs REE – GIC"
+  }
+},
+"joinTeam": {
+  "quote": "Investir ensemble, c’est unir les forces, partager les risques et bâtir une prospérité durable qui dépasse les ambitions individuelles.",
+  "button": "Rejoindre notre réseau"
+}
+}

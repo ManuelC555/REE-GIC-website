@@ -1,0 +1,71 @@
+.areas-section {
+  position: relative;
+  padding: 6rem 1.5rem;
+  background-image: url("/images/areas.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.areas-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.55);
+  z-index: 1;
+}
+
+.areas-inner {
+  position: relative;
+  z-index: 2;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.areas-inner h2 {
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 800;
+  margin-bottom: 4rem;
+}
+
+.areas-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2.5rem;
+}
+
+.area-card {
+  background: rgba(255,255,255,0.1);
+  backdrop-filter: blur(12px);
+  padding: 3rem;
+  border-radius: 22px;
+  box-shadow: 0 30px 70px rgba(0,0,0,0.35);
+  transition: all 0.35s ease;
+}
+
+.area-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 40px 90px rgba(0,0,0,0.5);
+}
+
+.area-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.area-card p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  opacity: 0.95;
+}
+
+@media (max-width: 768px) {
+  .areas-inner h2 {
+    font-size: 2rem;
+  }
+
+  .area-card {
+    padding: 2rem;
+  }
+}
