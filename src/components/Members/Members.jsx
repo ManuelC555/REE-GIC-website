@@ -33,6 +33,11 @@ const members = [
     photo: "/members/philippe.jpg"
   },
   {
+    name: "Marie Judith Josué",
+    roleKey: "members.member",
+    photo: "/members/judith.jpg"
+  },
+  {
     name: "Pierre Line Jean Baptiste",
     roleKey: "members.member",
     photo: "/members/pierreline.jpg"
@@ -40,10 +45,10 @@ const members = [
   {
     name: "Israel Joseph",
     roleKey: "members.member",
-    photo: "/members/av-israel.jpg"
+    photo: "/members/israel.jpg"
   },
   {
-    name: "Jean Rene Papaye",
+    name: "Jean Réné Papayé",
     roleKey: "members.member",
     photo: "/members/jeanrene.jpg"
   },
